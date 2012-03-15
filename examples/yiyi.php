@@ -1,2 +1,2 @@
 <?php
-print "pouet";
+print "pouet pouet";
