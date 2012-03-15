@@ -23,7 +23,7 @@ Github
   - Intéraction entre les fonctionnalités (message de commit, lien interne)
 
 
-Worflow Lephare
+Worth-flow Lephare
 ---------------
 
   - git-flow
